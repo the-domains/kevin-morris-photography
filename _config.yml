@@ -1,19 +1,4 @@
-name: 'kevin morris photography '
-favicon: null
-layout_spectrum: 0.6281507620587945
-typography_spectrum: 0.4616849757730961
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#71A7FE'
@@ -21,8 +6,13 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.08151039970107377
-  lightness: 0.5213966716546565
-  saturation: 0.7350126570090652
-  rhythmicContrast: 0.20444929087534547
+  brandStrength: 0.662162
+  lightness: 0.521395
+  rhythmicContrast: 0.514638
+  saturation: 0.735012
+cta: {}
+layout_spectrum: 0.029279
+name: 'kevin morris photography '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.613738
