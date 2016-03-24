@@ -1,14 +1,9 @@
 ---
-author:
-  - name: kevinmorris
-    url: 'http://kevinmorris.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
-  domain: kevinmorris.tumblr.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - kevinmorrisphoto
   - e-mail
@@ -20,8 +15,14 @@ keywords:
   - ramblings
   - morris
   - hey
-description: Shooting Untethered Cont. Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
-inLanguage: en
+description: Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
+datePublished: '2016-03-24T17:53:38.599Z'
+dateModified: '2016-03-24T17:53:13.025Z'
+author:
+  - name: kevinmorris
+    url: 'http://kevinmorris.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262'
     type: ios
@@ -56,15 +57,16 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/125489432262/shooting-untethered-cont-some-additional-images?is_related_post=1'
-title: Shooting Untethered Cont. Some addition...
-datePublished: '2016-03-24T14:56:34.146Z'
-dateModified: '2016-03-24T14:55:50.909Z'
+title: Shooting Untethered Continued
 sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: kevinmorris.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
+url: shooting-untethered-continued/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
