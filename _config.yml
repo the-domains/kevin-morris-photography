@@ -6,7 +6,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.662162
+  brandStrength: 0.318693
   lightness: 0.521395
   rhythmicContrast: 0.278153
   saturation: 0.524774
@@ -15,4 +15,4 @@ layout_spectrum: 0.409909
 name: 'kevin morris photography '
 opengraph: {}
 purpose: []
-typography_spectrum: 0.613738
+typography_spectrum: 0.407657
