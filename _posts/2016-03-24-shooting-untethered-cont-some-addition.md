@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - kevinmorrisphoto
   - e-mail
@@ -16,8 +16,8 @@ keywords:
   - morris
   - hey
 description: Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
-datePublished: '2016-03-24T17:58:36.104Z'
-dateModified: '2016-03-24T17:58:24.381Z'
+datePublished: '2016-03-24T19:08:50.515Z'
+dateModified: '2016-03-24T18:10:04.845Z'
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
@@ -71,4 +71,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Shooting Untethered Cont. Some addition...</h1><p>Shooting Untethered Cont. Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.</p><img src="http://41.media.tumblr.com/0cb492d811bcb4d8073958baa62f6166/tumblr_nsc59z1GEx1rgpajio1_1280.jpg" /></article>
+<article style=""><h1>Shooting Untethered Cont. Some addition...</h1><p>Shooting Untethered Cont. Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c647c4b51fcfadc49c6b955c29359cd79fb94ab.jpg" /></article>
