@@ -1,14 +1,10 @@
 ---
-author:
-  - name: kevinmorris
-    url: 'http://kevinmorris.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
-  domain: kevinmorris.tumblr.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119252669857/visited-thegetty-and-noticed-some-patrons-merely?is_related_post=1'
+inLanguage: en
+starred: false
 keywords:
   - thegetty
   - kevinmorrisphoto
@@ -21,7 +17,13 @@ keywords:
   - '323'
   - angeles
 description: 'Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)'
-inLanguage: en
+datePublished: '2016-03-24T17:51:17.125Z'
+dateModified: '2016-03-24T17:50:37.575Z'
+author:
+  - name: kevinmorris
+    url: 'http://kevinmorris.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857'
     type: ios
@@ -56,15 +58,15 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119252669857/visited-thegetty-and-noticed-some-patrons-merely?is_related_post=1'
 title: 'Visited #thegetty and noticed some patro...'
-datePublished: '2016-03-24T15:23:29.639Z'
-dateModified: '2016-03-24T15:21:29.558Z'
 sourcePath: _posts/2016-03-24-visited-thegetty-and-noticed-some-patro.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: kevinmorris.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
