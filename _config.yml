@@ -8,7 +8,7 @@ color:
     - '#CEAFC0'
   brandStrength: 0.318693
   lightness: 0.521395
-  rhythmicContrast: 0.003378
+  rhythmicContrast: 1
   saturation: 0.472972
 cta: {}
 layout_spectrum: 0.801801
