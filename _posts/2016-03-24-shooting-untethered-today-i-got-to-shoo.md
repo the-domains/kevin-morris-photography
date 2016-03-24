@@ -1,14 +1,10 @@
 ---
-author:
-  - name: kevinmorris
-    url: 'http://kevinmorris.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
-  domain: kevinmorris.tumblr.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119525951610/shooting-untethered-today-i-got-to-shoot-artist'
+inLanguage: en
+starred: false
 keywords:
   - d800
   - setup
@@ -21,7 +17,13 @@ keywords:
   - shoot
   - lighting
 description: 'Shooting Untethered Today I got to shoot artist and brother Jon Morris ( @jdmfinearts). It was a fun shoot, and we tried some different lighting setups. The images were shot in jpeg format and transferred to my cell phone via eyefi mobi card.'
-inLanguage: en
+datePublished: '2016-03-24T19:08:50.382Z'
+dateModified: '2016-03-24T17:55:46.104Z'
+author:
+  - name: kevinmorris
+    url: 'http://kevinmorris.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610'
     type: ios
@@ -56,17 +58,17 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119525951610/shooting-untethered-today-i-got-to-shoot-artist'
 title: Shooting Untethered Today I got to shoo...
-datePublished: '2016-03-24T14:56:34.089Z'
-dateModified: '2016-03-24T14:53:34.541Z'
 sourcePath: _posts/2016-03-24-shooting-untethered-today-i-got-to-shoo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: kevinmorris.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Shooting Untethered Today I got to shoo...</h1><p>Shooting Untethered Today I got to shoot artist and brother Jon Morris ( @jdmfinearts). It was a fun shoot, and we tried some different lighting setups. The images were shot in jpeg format and transferred to my cell phone via eyefi mobi card.</p><img src="http://41.media.tumblr.com/5bf69a3971e62c8527844c9af10bec69/tumblr_noouebxCjO1rgpajio1_1280.jpg" /></article>
+<article style=""><h1>Shooting Untethered</h1><p>Shooting Untethered Today I got to shoot artist and brother Jon Morris ( @jdmfinearts). It was a fun shoot, and we tried some different lighting setups. The images were shot in jpeg format and transferred to my cell phone via eyefi mobi card.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b588f4c300d74a792d45159adae31764eb061be5.jpg" /></article>
