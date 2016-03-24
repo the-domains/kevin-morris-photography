@@ -17,8 +17,8 @@ keywords:
   - '323'
   - angeles
 description: 'Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)'
-datePublished: '2016-03-24T17:57:43.075Z'
-dateModified: '2016-03-24T17:57:38.216Z'
+datePublished: '2016-03-24T19:08:50.358Z'
+dateModified: '2016-03-24T18:10:55.180Z'
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
@@ -71,4 +71,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Visited #thegetty and noticed some patro...</h1><p>Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)</p><img src="http://40.media.tumblr.com/dc982be9200c8109ba5e0afa132a4bf0/tumblr_noj2apmfE11rgpajio1_1280.jpg" /></article>
+<article style=""><h1>Visited #thegetty and noticed some patro...</h1><p>Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440647499ead45d8b54e27f427f5acfc14619b67.jpg" /></article>
