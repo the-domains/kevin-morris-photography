@@ -17,8 +17,8 @@ keywords:
   - morris
   - hey
 description: "Parental Guidance These are my parents. They don't stream movies, they don't understand wifi encrypted passwords, hashtags, or twitter feeds. My mom still has her Juno mail account. They don't use or understand what a Facebook is. I don't think that they have ever had an actual portrait taken off them."
-datePublished: '2016-03-24T19:08:50.519Z'
-dateModified: '2016-03-24T18:11:37.492Z'
+datePublished: '2016-03-25T02:19:49.180Z'
+dateModified: '2016-03-25T02:19:28.533Z'
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
