@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119525951610/shooting-untethered-today-i-got-to-shoot-artist'
 inLanguage: en
-starred: false
 keywords:
   - d800
   - setup
@@ -17,8 +16,8 @@ keywords:
   - shoot
   - lighting
 description: 'Shooting Untethered Today I got to shoot artist and brother Jon Morris ( @jdmfinearts). It was a fun shoot, and we tried some different lighting setups. The images were shot in jpeg format and transferred to my cell phone via eyefi mobi card.'
-datePublished: '2016-03-24T19:08:50.382Z'
-dateModified: '2016-03-24T17:55:46.104Z'
+datePublished: '2016-05-22T04:39:34.091Z'
+dateModified: '2016-05-22T04:29:33.996Z'
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
@@ -58,15 +57,15 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-title: Shooting Untethered Today I got to shoo...
+title: Shooting Untethered
 sourcePath: _posts/2016-03-24-shooting-untethered-today-i-got-to-shoo.md
-published: true
 authors: []
 publisher:
   name: Tumblr
   domain: kevinmorris.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
