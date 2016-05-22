@@ -1,9 +1,12 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-05-22T04:14:37.957Z'
+datePublished: '2016-05-22T04:15:49.628Z'
+description: Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
 hasPage: true
-inNav: false
+inFeed: true
 inLanguage: en
-starred: true
+inNav: false
 keywords:
   - kevinmorrisphoto
   - e-mail
@@ -15,60 +18,21 @@ keywords:
   - ramblings
   - morris
   - hey
-description: Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
-datePublished: '2016-03-27T06:14:15.811Z'
-dateModified: '2016-03-24T21:18:34.358Z'
-author:
-  - name: kevinmorris
-    url: 'http://kevinmorris.tumblr.com'
-    avatar: {}
-related: []
-app_links:
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262'
-    type: ios
-    namespace: ai
-    app_name: Tumblr
-    app_store_id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262'
-    type: android
-    namespace: ai
-    app_name: Tumblr
-    package: com.tumblr
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262&referrer=twitter-cards'
-    namespace: twitter
-    type: ipad
-    name: Tumblr
-    id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262&referrer=twitter-cards'
-    namespace: twitter
-    type: iphone
-    name: Tumblr
-    id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=125489432262&referrer=twitter-cards'
-    namespace: twitter
-    type: googleplay
-    name: Tumblr
-    id: com.tumblr
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris%26postID=125489432262'
-    package: com.tumblr
-    namespace: google
-    type: android
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris&postID=125489432262'
-    package: '305343404'
-    namespace: google
-    type: ios
-title: Shooting Untethered Continued
-sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
-published: true
-authors: []
 publisher:
-  name: Tumblr
   domain: kevinmorris.tumblr.com
-  url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
+  name: Tumblr
+  url: 'http://tumblr.com'
+title: Shooting Untethered Cont. Some addition...
+author: []
+starred: true
+sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
 url: shooting-untethered-continued/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>Shooting Untethered Cont. Some addition...</h1><p>Shooting Untethered Cont. Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c647c4b51fcfadc49c6b955c29359cd79fb94ab.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022c7044-d416-40d5-b421-61641c77b7bf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c8794e-34ac-4533-a23b-f603e1ef13da.jpg)
