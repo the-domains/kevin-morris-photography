@@ -15,8 +15,8 @@ keywords:
   - morris
   - hey
 description: Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
-datePublished: '2016-05-22T04:32:24.600Z'
-dateModified: '2016-05-22T04:32:21.997Z'
+datePublished: '2016-05-22T04:39:34.119Z'
+dateModified: '2016-05-22T04:38:45.666Z'
 title: 'Shooting Untethered Cont. '
 author:
   - name: ''
