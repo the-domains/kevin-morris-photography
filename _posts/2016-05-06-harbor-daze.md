@@ -1,14 +1,21 @@
 ---
-dateModified: '2016-05-06T16:21:18.790Z'
-title: Harbor Daze
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
 description: ''
-author: []
-starred: false
-datePublished: '2016-05-06T16:22:26.350Z'
+datePublished: '2016-06-12T00:37:12.717Z'
+dateModified: '2016-06-12T00:37:12.399Z'
+title: Harbor Daze
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-06-harbor-daze.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
