@@ -1,10 +1,11 @@
 ---
+datePublished: '2016-06-17T04:47:17.058Z'
+sourcePath: _posts/2016-03-24-visited-thegetty-and-noticed-some-patro.md
 inFeed: true
+isBasedOnUrl: >-
+  http://kevinmorris.tumblr.com/post/119252669857/visited-thegetty-and-noticed-some-patrons-merely?is_related_post=1
+authors: []
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119252669857/visited-thegetty-and-noticed-some-patrons-merely?is_related_post=1'
-inLanguage: en
-starred: false
 keywords:
   - thegetty
   - kevinmorrisphoto
@@ -16,14 +17,13 @@ keywords:
   - '456'
   - '323'
   - angeles
-description: 'Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)'
-datePublished: '2016-03-24T19:08:50.358Z'
-dateModified: '2016-03-24T18:10:55.180Z'
+related: []
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
     avatar: {}
-related: []
+dateModified: '2016-06-17T01:22:12.719Z'
+title: 'Visited #thegetty and noticed some patro...'
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857'
     type: ios
@@ -35,40 +35,45 @@ app_links:
     namespace: ai
     app_name: Tumblr
     package: com.tumblr
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards
     namespace: twitter
     type: ipad
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards
     namespace: twitter
     type: iphone
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119252669857&referrer=twitter-cards
     namespace: twitter
     type: googleplay
     name: Tumblr
     id: com.tumblr
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris%26postID=119252669857'
+  - path: tumblr/x-callback-url/blog?blogName=kevinmorris%26postID=119252669857
     package: com.tumblr
     namespace: google
     type: android
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris&postID=119252669857'
+  - path: tumblr/x-callback-url/blog?blogName=kevinmorris&postID=119252669857
     package: '305343404'
     namespace: google
     type: ios
-title: 'Visited #thegetty and noticed some patro...'
-sourcePath: _posts/2016-03-24-visited-thegetty-and-noticed-some-patro.md
-published: true
-authors: []
 publisher:
   name: Tumblr
   domain: kevinmorris.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
+description: >-
+  Visited #thegetty and noticed some patrons merely snapping shots and quickly
+  moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)
+inLanguage: en
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Visited #thegetty and noticed some patro...</h1><p>Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440647499ead45d8b54e27f427f5acfc14619b67.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440647499ead45d8b54e27f427f5acfc14619b67.jpg" /><h1>Visited #thegetty and noticed some patro...</h1><p>Visited #thegetty and noticed some patrons merely snapping shots and quickly moving on. Ooh, Rembrandt, click, next (at The Getty Center, Los Angeles)</p></article>
