@@ -16,7 +16,7 @@ opengraph:
   appId: null
 layout_spectrum: 1
 analytics:
-  google: null
+  google: UA-79494229-1
   facebook: null
   twitter: null
 author:
