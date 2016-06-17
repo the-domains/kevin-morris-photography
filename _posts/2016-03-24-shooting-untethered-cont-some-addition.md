@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T04:49:15.273Z'
+datePublished: '2016-06-17T05:25:00.596Z'
 sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T04:49:14.563Z'
+dateModified: '2016-06-17T05:24:31.306Z'
 title: 'Shooting Untethered Cont. '
 publisher:
   name: Tumblr
@@ -39,5 +39,6 @@ _type: MediaObject
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c647c4b51fcfadc49c6b955c29359cd79fb94ab.jpg" /><h1>Shooting Untethered Cont. </h1><p>Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.</p></article>
 
+Some additional images I got around to color grading on my galaxy s5\. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b30924c641352a8fd4472620237043b5fa89f769.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d3a96141e7941943f906d8de352b33a9477d057.jpg)
