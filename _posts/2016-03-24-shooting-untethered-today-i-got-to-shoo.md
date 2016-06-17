@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T05:22:28.275Z'
+datePublished: '2016-06-17T17:41:25.660Z'
 sourcePath: _posts/2016-03-24-shooting-untethered-today-i-got-to-shoo.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
   - lighting
 related: []
 author: []
-dateModified: '2016-06-17T05:22:27.939Z'
+dateModified: '2016-06-17T17:40:49.292Z'
 title: Shooting Untethered
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610'
