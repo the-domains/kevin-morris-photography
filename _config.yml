@@ -1,20 +1,4 @@
-name: 'kevin morris photography '
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.38561
-title: kevin morris photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010101'
@@ -26,4 +10,24 @@ color:
   lightness: 0.521395
   saturation: 0.472972
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: kevin morris
+  email: 'kevinmorrisphoto@gmail.com '
+  url: 'kevinmorrisphoto.com '
+name: 'kevin morris photography '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: feelance photographer
 purpose: []
