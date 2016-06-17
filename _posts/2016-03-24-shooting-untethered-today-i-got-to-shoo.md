@@ -2,7 +2,8 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://kevinmorris.tumblr.com/post/119525951610/shooting-untethered-today-i-got-to-shoot-artist'
+isBasedOnUrl: >-
+  http://kevinmorris.tumblr.com/post/119525951610/shooting-untethered-today-i-got-to-shoot-artist
 inLanguage: en
 keywords:
   - d800
@@ -15,9 +16,13 @@ keywords:
   - images
   - shoot
   - lighting
-description: 'Shooting Untethered Today I got to shoot artist and brother Jon Morris ( @jdmfinearts). It was a fun shoot, and we tried some different lighting setups. The images were shot in jpeg format and transferred to my cell phone via eyefi mobi card.'
-datePublished: '2016-05-22T04:39:34.091Z'
-dateModified: '2016-05-22T04:29:33.996Z'
+description: >-
+  Shooting Untethered Today I got to shoot artist and brother Jon Morris (
+  @jdmfinearts). It was a fun shoot, and we tried some different lighting
+  setups. The images were shot in jpeg format and transferred to my cell phone
+  via eyefi mobi card.
+datePublished: '2016-06-17T01:09:18.408Z'
+dateModified: '2016-06-17T01:09:17.969Z'
 author:
   - name: kevinmorris
     url: 'http://kevinmorris.tumblr.com'
@@ -34,26 +39,29 @@ app_links:
     namespace: ai
     app_name: Tumblr
     package: com.tumblr
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards
     namespace: twitter
     type: ipad
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards
     namespace: twitter
     type: iphone
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=kevinmorris&postID=119525951610&referrer=twitter-cards
     namespace: twitter
     type: googleplay
     name: Tumblr
     id: com.tumblr
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris%26postID=119525951610'
+  - path: tumblr/x-callback-url/blog?blogName=kevinmorris%26postID=119525951610
     package: com.tumblr
     namespace: google
     type: android
-  - path: 'tumblr/x-callback-url/blog?blogName=kevinmorris&postID=119525951610'
+  - path: tumblr/x-callback-url/blog?blogName=kevinmorris&postID=119525951610
     package: '305343404'
     namespace: google
     type: ios
@@ -65,7 +73,7 @@ publisher:
   domain: kevinmorris.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
