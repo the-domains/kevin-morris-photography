@@ -1,9 +1,5 @@
 ---
-datePublished: '2016-06-17T05:25:00.596Z'
-sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
-inFeed: true
-authors: []
-hasPage: true
+inLanguage: en
 keywords:
   - kevinmorrisphoto
   - e-mail
@@ -15,26 +11,25 @@ keywords:
   - ramblings
   - morris
   - hey
+title: 'Shooting Untethered Cont. '
+datePublished: '2016-08-14T20:38:44.996Z'
+dateModified: '2016-08-14T19:41:16.551Z'
+publisher: {}
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T05:24:31.306Z'
-title: 'Shooting Untethered Cont. '
-publisher:
-  name: Tumblr
-  domain: kevinmorris.tumblr.com
-  url: 'http://tumblr.com'
-  favicon: 'http://38.media.tumblr.com/avatar_c96399fb4462_128.png'
+inFeed: true
+hasPage: true
+inNav: false
 description: >-
   Some additional images I got around to color grading on my galaxy s5. I find
   that the ability to do basic edit/grade literally anywhere with VSCO CAM on a
   mobile device is a) extremely convenient and b) SUPER ADDICTING.
-inLanguage: en
-inNav: false
-starred: true
+via: {}
+starred: false
+sourcePath: _posts/2016-03-24-shooting-untethered-cont-some-addition.md
 url: shooting-untethered-cont/index.html
-_context: 'http://schema.org'
-_type: MediaObject
+_type: Article
 
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c647c4b51fcfadc49c6b955c29359cd79fb94ab.jpg" /><h1>Shooting Untethered Cont. </h1><p>Some additional images I got around to color grading on my galaxy s5. I find that the ability to do basic edit/grade literally anywhere with VSCO CAM on a mobile device is a) extremely convenient and b) SUPER ADDICTING.</p></article>
